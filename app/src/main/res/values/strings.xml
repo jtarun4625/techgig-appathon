@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Num Facts</string>
+    <string name="advance_functionality">Advance Functionality</string>
+    <string name="basic_functionality">Basic Functionality</string>
+    <string name="trivia">Trivia</string>
+    <string name="math">Math</string>
+    <string name="date">Date</string>
+    <string name="year">Year</string>
+    <string name="choose_advance_and_basic_functionality_from_below_buttons">Choose advance and basic functionality from below buttons.</string>
+    <string name="choose_category_from_below">Choose Category From Below :</string>
+    <string name="enter_any_number">Enter Any Number</string>
+    <string name="select_date">Select Date</string>
+    <string name="prompt">Select Functionality</string>
+    <string-array name="functionality">
+        <item>Basic</item>
+        <item>Advance</item>
+    </string-array>
+</resources>
